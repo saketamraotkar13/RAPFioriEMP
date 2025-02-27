@@ -34,7 +34,9 @@ sap.ui.define([
             this.aFile = files;
         },
 
+        onMyreq: function(oEvent){
 
+        },
 
         onUploadSet: function(oEvent) {
             console.log("Upload Button Clicked!!!")
