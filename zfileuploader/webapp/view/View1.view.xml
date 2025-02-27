@@ -1,0 +1,7 @@
+<mvc:View controllerName="com.sap.zfileuploader.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+    <Button text="OnUpload" press="onUpload"  id="idBtn"></Button>
+    </Page>
+</mvc:View>
